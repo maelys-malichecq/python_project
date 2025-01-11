@@ -10,6 +10,6 @@ print(array)
 # Afficher les attributs disponibles du module
 print(dir(pbc))
 
-# python_project.py
 def hello_world():
     print("Hello, world!")
+    print("This is a small fix or feature!")
